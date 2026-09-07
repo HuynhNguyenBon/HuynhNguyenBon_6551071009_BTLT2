@@ -1,0 +1,14 @@
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.exe
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.deps.json
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.runtimeconfig.json
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.dll
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.pdb
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.dll
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net10.0\refint\QuanLySanPhamCuaHang.dll
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.pdb
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net10.0\ref\QuanLySanPhamCuaHang.dll
